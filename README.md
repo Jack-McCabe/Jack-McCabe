@@ -7,5 +7,5 @@ Real Estate Implementation is a project that is an implementation of an ERC721 t
 
 Flight Insurance is a complex project that is for flight insurance if your flight is delayed. Passengers, airlines and flights will be registered through the application contract which then stores in the information in the data contract. In order for an airline to begin registering flights they need to be vouched for by the majority of airlines registered. Once a passenger has purchased flight insurance, mutliple Oracles will provided information on the status of the flight, once enough have Oracles have confirmed the status, the passenger is transfered his insurance amount. 
 
-Association Analysis using ECLAT, a basic assoscaiton analysis on supply chain lead times. Was a program I developed to build off of my NC State 4 month data science course. 
+Association Analysis using ECLAT, a basic assoscaiton analysis on supply chain lead times. Was a program I developed to build off of my NC State data science course. 
 
