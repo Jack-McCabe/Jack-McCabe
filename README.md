@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jack-McCabe a Blockchain enthusaist and Product Manager who enjoys coding, learning about cool programming hacks and taking coding classes. 
+- 👋 Hi, I’m @Jack-McCabe a Blockchain enthusaist and PM who enjoys coding, learning about cool programming hacks and taking coding classes. 
 
 If you are looking at my work I would suggest Real Estate Implementation using ZoKrates and Flight Insurance projects, both part of the Udacity Blockchain Developer Nanodegree, https://confirm.udacity.com/PAXH9PLG.
 
