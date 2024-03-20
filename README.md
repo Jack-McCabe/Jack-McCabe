@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jack-McCabe a Blockchain enthusiast and PM who enjoys coding, and learning about interesting technologies. Please find my Blockchain Developer Nanodegree work below.
+👋 Hi, I’m @Jack-McCabe a Blockchain enthusiast and PM who enjoys coding, and learning about interesting technologies. Please find my Blockchain Developer Nanodegree work below.
 
 Real Estate Implementation is a project that is an implementation of an ERC721 token to provide titles for houses. The tokens are minted on the OpenSeas marketplace and can be bought and sold there. The project has a zero-knowledge proof ZoKrates implementation which requires the user to know the proof before minting houses. 
 
